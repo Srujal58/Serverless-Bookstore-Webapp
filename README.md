@@ -30,7 +30,7 @@ Modern animated bookstore interface built with HTML, CSS, and JavaScript.
 Serverless backend powered by AWS Lambda exposed through API Gateway REST endpoints.
 
 <p align="center">
-  <img src="Screenshots/Lamda_API.png" width="850"/>
+  <img src="Screenshots/Lambda_API.png" width="850"/>
 </p>
 
 ---
